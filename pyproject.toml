@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-qualityoflifesuit_omar92"
+description = "openAI suite, String suite, Latent Tools, Image Tools: These custom nodes provide expanded functionality for image and string processing, latent processing, as well as the ability to interface with models such as ChatGPT/DallE-2.\nNOTE: Currently, this extension does not support the new OpenAI API, leading to compatibility issues."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/omar92/ComfyUI-QualityOfLifeSuit_Omar92"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "5e25c85f-0b5a-47c3-b013-e1c6afe81fed"
+DisplayName = "ComfyUI-QualityOfLifeSuit_Omar92"
+Icon = ""
